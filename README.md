@@ -3,8 +3,11 @@
 代码参考 https://qydev.weixin.qq.com/ 如有问题随时删.
 
 把代码部署到你的服务器上，之后修改callBackDemo.php.
+
 修改密钥等信息。
+
 修改$auto_reply_event_arr事件类型的回复.
+
 修改$auto_reply_arr以便自动回复。
 
 出错会在当前文件夹生成wx.log供查询。
