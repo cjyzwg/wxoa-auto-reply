@@ -17,3 +17,7 @@
 * 出错会在当前文件夹生成wx.log供查询。
 
 最后把地址配置在微信公众号后台，完成。
+
+## License
+
+MIT © [twogunss](mailto:stef-silence@qq.com)
