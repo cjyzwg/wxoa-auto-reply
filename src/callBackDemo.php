@@ -6,7 +6,7 @@
 header("Content-type:text/html;charset=utf-8");
 ini_set('display_errors', true);
 error_reporting(E_ERROR);
-set_time_limit(0);    //设置php永不超时
+set_time_limit(0);
 ini_set('memory_limit', '-1');
 
 // need to put yourself
