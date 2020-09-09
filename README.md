@@ -22,8 +22,6 @@
 
 换行请使用\n，定义字符串的时候要用双引号括起来，否则不生效。
 
-待补充...
-
 ## License
 
 MIT © [twogunss](mailto:stef-silence@qq.com)
